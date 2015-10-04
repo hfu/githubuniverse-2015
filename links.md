@@ -1,4 +1,4 @@
-# 発表
+# レコーディング
 http://www.ustream.tv/recorded/74643393
 
 # 反応
