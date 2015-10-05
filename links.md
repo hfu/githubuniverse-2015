@@ -1,5 +1,8 @@
-# レコーディング
+# 発表
+## レコーディング
 http://www.ustream.tv/recorded/74643393
+## 発表資料
+https://github.com/hfu/githubuniverse-2015/tree/master/presentation
 
 # 反応
 ## 報道
