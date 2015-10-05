@@ -26,6 +26,10 @@ https://daikikohara.github.io/blog/2015/10/02/github-universe-2015/
 > - droneで撮った映像とかも
 > - iOS9で動かないのでコントリビューション待ってます的な。
 
+### 10/3 spangled shalalala blog
+GitHub Universeに関するニュースメモ
+http://spangled-shalalala.hatenablog.com/entry/2015/10/03/190000
+
 ### 10/4 ikeike443のブログ
 >日本から国土地理院の藤村さんが登壇されました。東日本大震災や御嶽山噴火の際の取り組みなど発表されました。 国土地理院は早くからGitHubリポジトリを持っており、Open Dataに深くコミットされています。 実は日本の政府関係者が海外の技術カンファレンスに登壇するのは歴史上初めての事のような気がします。この辺は後日詳しく記事になるんじゃないかなーと思います。 
 http://ikeike443.hatenablog.com/entry/2015/10/04/132432
