@@ -11,6 +11,10 @@ http://codezine.jp/article/detail/8999
 >日本からは、火山活動や先日の洪水災害情報をドローンとGitHubを活用してオープンデータ化した先進事例として国土地理院の担当者が発表するという。
 http://news.mynavi.jp/news/2015/10/01/126/
 
+### 10/1 gihyo.jp: GitHubが目指す次世代ブレイクスルーがわかるイベント「GitHub Universe」，USからインターネット生中継
+>日本からは国土地理院が，火山活動や先日の東日本豪雨・洪水災害情報を，ドローンとGitHubを活用してオープンデータ化した事例が発表される。
+http://gihyo.jp/news/info/2015/10/0102
+
 ### 10/2 The BRIDGE: 巨大倉庫を超おしゃれなイベントスペースにして開催されたGitHub主催の「Universe」【フォトレポ】
 http://thebridge.jp/2015/10/github-universe-photos
 
