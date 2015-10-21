@@ -47,6 +47,13 @@ http://digital.asahi.com/articles/ASHB54Q6GHB5UHBI018.html?rm=654
 
 http://thebridge.jp/2015/10/github-universe-session-changing-lives-with-open-data
 
+## 10/22 GitHubのオシャレなオフィスと国土地理院のギャップが楽しい
+> ソースコードリポジトリサービスのGitHubのイベント、GitHub Universeでは日本から国土交通省国土地理院の藤村英範氏（地理空間情報部普及課 課長）がパネルセッションに参加し、オープンデータとGitHubを活用した地理情報システムの紹介を行った。
+> 藤村氏は、過去の火山噴火や洪水、震災などの災害に際して地形がどのように変化したのかを写真や地図をフルに活用した事例を紹介。地理データをオープンデータとして利用し、それらを処理するプログラムをGitHubで公開することで開発が素早く行われたことを紹介した。GitHubを使ってコードを公開しているリポジトリーは20以上に及び、国内の政府機関の中でもGitHubを活用している度合ではトップレベルではないだろうか。
+> 15分程度という限られた時間内ながら「日本の災害」という3.11の震災以降、欧米では注目されがちなテーマだっただけにセッションに参加した人の注目度も高く、セッション後も質問に追われていたのが印象的だった。
+
+http://thinkit.co.jp/story/2015/10/21/6536
+
 ## 番組
 ### 10/5 GeoGeoWest @ Furuhashi Lab
 https://www.youtube.com/watch?v=QXOEiO16vhY&feature=youtu.be
