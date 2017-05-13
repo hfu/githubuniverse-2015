@@ -2,7 +2,7 @@
 ## レコーディング
 http://www.ustream.tv/recorded/74643393
 ## 発表資料
-https://github.com/hfu/githubuniverse-2015/tree/master/presentation
+https://speakerdeck.com/hfu/gsi-maps-for-the-next-wave-of-civic-innovation
 
 # 反応
 ## 報道
